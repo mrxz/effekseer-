@@ -1,0 +1,1 @@
+Hosts a build of EffekseerForWebGL for the sole purpose of easily referencing it in example HTML pages. If you want to use Effekseer in your own (WebGL) project, please refer to the official repository: https://github.com/effekseer/EffekseerForWebGL
